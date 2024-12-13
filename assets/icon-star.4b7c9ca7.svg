@@ -1,0 +1,13 @@
+<svg
+            class="absolute top-0 -left-[19px]"
+            width="36"
+            height="36"
+            viewBox="0 0 36 36"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M18 36C18 36 18 18 36 18C18 18 18 0 18 0C18 0 18 18 0 18C18 18 18 36 18 36Z"
+              fill="#FFE7AA"
+            />
+          </svg>
